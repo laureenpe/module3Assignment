@@ -58,7 +58,7 @@ h2 {
 03. Sections
 ============================================================ */
 #chicken{
-    background-image: url(/img/kirsty-tg-146655-unsplash.png);
+    background-image: url(../img/kirsty-tg-146655-unsplash.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -68,7 +68,7 @@ h2 {
     -o-background-size: cover;
 }
 #beef{
-    background-image: url(/img/james-sutton-198306-unsplash1.png);
+    background-image: url(../img/james-sutton-198306-unsplash1.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -78,7 +78,7 @@ h2 {
     -o-background-size: cover;
 }
 #sushi{
-    background-image: url(/img/j-329172-unsplash.png);
+    background-image: url(../img/j-329172-unsplash.png);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
