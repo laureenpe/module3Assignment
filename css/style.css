@@ -91,10 +91,5 @@ h2 {
 .text-justify.bg-dark.p-2{
     opacity: 0.6;
 }
-/*Queries*/
-@media (min-width: 768px){
-.navbar-expand-lg .navbar-toggler {
-    display: none;
-}
-}
+
 /*end style*/
